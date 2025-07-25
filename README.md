@@ -1,6 +1,5 @@
-# prj
-
-A new Flutter project.
+# Book_Store
+A new Flutter project for a book store application.
 
 ## Getting Started
 
